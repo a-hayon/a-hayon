@@ -56,7 +56,7 @@ This experience taught me how to work within an existing codebase, understand bu
 
 ## 🚀 Selected projects
 
-### HanDLEs
+### HanDLEs ➡️ [HanDLEs](https://github.com/a-hayon/HanDLEs)
 A Wordle-style web game where you guess the mystery NBA player in 8 tries, with a daily mode and a random mode.
 
 Topics explored:
@@ -68,10 +68,8 @@ Topics explored:
 - serverless deployment on Vercel
 - AI-assisted workflow with Claude Code (project context, custom skills, hooks and a code review subagent)
 
-➡️ [HanDLEs](https://github.com/a-hayon/HanDLEs)
 
-
-### PulseOps *(in progress)*
+### PulseOps *(in progress)* ➡️ [PulseOps](https://github.com/Skiams/PulseOps)
 A monitoring platform for web services: it runs periodic health checks and tracks each service's status, response time and history.
 
 Topics explored so far:
@@ -82,10 +80,8 @@ Topics explored so far:
 
 Planned: service CRUD with Alembic migrations, asynchronous health checks, React dashboard, pytest, GitHub Actions CI, Prometheus/Grafana metrics and cloud deployment.
 
-➡️ [PulseOps](https://github.com/Skiams/PulseOps)
 
-
-### Inception of Things
+### Inception of Things ➡️[IoT](https://github.com/a-hayon/iot)
 Kubernetes and GitOps project using K3s, K3d and Argo CD.
 
 Topics explored:
@@ -94,8 +90,6 @@ Topics explored:
 - ingress routing
 - GitOps
 - automated deployment with Argo CD
-
-➡️[IoT](https://github.com/a-hayon/iot)
 
 
 ### 42 Common Core
