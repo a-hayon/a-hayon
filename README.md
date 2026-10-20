@@ -56,6 +56,33 @@ This experience taught me how to work within an existing codebase, understand bu
 
 ## 🚀 Selected projects
 
+### HanDLEs
+A Wordle-style web game where you guess the mystery NBA player in 8 tries, with a daily mode and a random mode.
+
+Topics explored:
+- Vue 3 (Composition API), Pinia and TypeScript on the frontend
+- REST API with Hono and Zod validation
+- game logic kept on the server: the browser never receives the answer, and the daily player is derived from a secret with HMAC
+- migrating the frontend from Next.js/React to Vue 3 + Vite
+- unit and component tests with Vitest and Vue Test Utils
+- serverless deployment on Vercel
+- AI-assisted workflow with Claude Code (project context, custom skills, hooks and a code review subagent)
+
+➡️ [HanDLEs](https://github.com/a-hayon/HanDLEs)
+
+### PulseOps *(in progress)*
+A monitoring platform for web services: it runs periodic health checks and tracks each service's status, response time and history.
+
+Topics explored so far:
+- REST API with Python and FastAPI
+- PostgreSQL with Docker Compose (named volume, healthcheck)
+- data modeling with SQLAlchemy and database constraints
+- configuration through environment variables
+
+Planned: service CRUD with Alembic migrations, asynchronous health checks, React dashboard, pytest, GitHub Actions CI, Prometheus/Grafana metrics and cloud deployment.
+
+➡️ [PulseOps](https://github.com/Skiams/PulseOps)
+
 ### Inception of Things
 Kubernetes and GitOps project using K3s, K3d and Argo CD.
 
@@ -65,6 +92,8 @@ Topics explored:
 - ingress routing
 - GitOps
 - automated deployment with Argo CD
+
+➡️[IoT](https://github.com/a-hayon/iot)
 
 ### 42 Common Core
 A collection of projects completed during the École 42 curriculum covering:
@@ -76,13 +105,14 @@ A collection of projects completed during the École 42 curriculum covering:
 - multithreading
 - Docker and system administration
 
-➡️ [Explore my 42 projects](LINK_TO_YOUR_42_REPOSITORY)
+➡️ [Explore my 42 projects](https://github.com/a-hayon/42-common-core)
 
 ## 🌱 Currently
 
 I'm currently strengthening my skills in:
 
 - backend and full-stack development
+- Python
 - TypeScript
 - software architecture
 - DevOps / Cloud
