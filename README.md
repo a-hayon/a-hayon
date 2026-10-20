@@ -70,6 +70,7 @@ Topics explored:
 
 ➡️ [HanDLEs](https://github.com/a-hayon/HanDLEs)
 
+
 ### PulseOps *(in progress)*
 A monitoring platform for web services: it runs periodic health checks and tracks each service's status, response time and history.
 
@@ -83,6 +84,7 @@ Planned: service CRUD with Alembic migrations, asynchronous health checks, React
 
 ➡️ [PulseOps](https://github.com/Skiams/PulseOps)
 
+
 ### Inception of Things
 Kubernetes and GitOps project using K3s, K3d and Argo CD.
 
@@ -95,6 +97,7 @@ Topics explored:
 
 ➡️[IoT](https://github.com/a-hayon/iot)
 
+
 ### 42 Common Core
 A collection of projects completed during the École 42 curriculum covering:
 
@@ -106,6 +109,7 @@ A collection of projects completed during the École 42 curriculum covering:
 - Docker and system administration
 
 ➡️ [Explore my 42 projects](https://github.com/a-hayon/42-common-core)
+
 
 ## 🌱 Currently
 
