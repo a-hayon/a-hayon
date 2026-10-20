@@ -1,6 +1,6 @@
 # Hi, I'm Antoine 👋
 
-I'm a software developer trained at **École 42**, with a particular interest in **full-stack, backend and DevOps development**.
+I'm a software developer trained at **École 42**, with a particular interest in **full-stack, backend and DevOps development while using agentic workflows**.
 
 Before moving into software development, I worked as a translator. I then joined École 42, where I built strong foundations in C, C++, algorithms, Unix systems and networking before moving toward modern web technologies.
 
